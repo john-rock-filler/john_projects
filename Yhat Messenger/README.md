@@ -1,6 +1,6 @@
 Project Name: Chat Messenger
 
-                                       Technology: Java Programming
+Technology: Java Programming
 
 Description: 
 • This project provides the chatting facility for peer-to-peer communication.
